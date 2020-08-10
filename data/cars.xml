@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cars>
+   <car>
+      <id>1</id>
+      <brand>Toyota</brand>
+      <category>sedan</category>
+      <fuelType>petrol</fuelType>
+      <mileage>15000</mileage>
+      <model>Camry</model>
+      <price>88</price>
+      <seats>5</seats>
+      <year>2014</year>
+       <description>Manor we shall merit by chief wound no or would</description>
+     <availability>true</availability>
+   </car>
+   <car>
+      <id>2</id>
+      <brand>BMW</brand>
+      <category>sedan</category>
+      <fuelType>petrol</fuelType>
+      <mileage>35500</mileage>
+      <model>320i</model>
+      <price>120</price>
+      <seats>5</seats>
+      <year>2016</year>
+      <description>In as name to here them deny wise this.</description>
+      <availability>false</availability>
+   </car>
+   <car>
+      <id>3</id>
+      <brand>Hyundai</brand>
+      <category>sedan</category>
+      <fuelType>petrol</fuelType>
+      <mileage>47600</mileage>
+      <model>Sonata</model>
+      <price>125</price>
+      <seats>5</seats>
+      <year>2009</year>
+      <description>Advantage old had otherwise sincerity dependent additions.</description>
+      <availability>true</availability>
+   </car>
+   <car>
+      <id>4</id>
+      <brand>Chevrolet</brand>
+      <category>SUV</category>
+      <fuelType>petrol</fuelType>
+      <mileage>88020</mileage>
+      <model>Jimny</model>
+      <price>130</price>
+      <seats>5</seats>
+      <year>2005</year>
+      <description>Breakfast procuring nay end happiness allowance assurance frankness.</description>
+      <availability>true</availability>
+   </car>
+   <car>
+      <id>5</id>
+      <brand>Nissan</brand>
+      <category>sedan</category>
+      <fuelType>petrol</fuelType>
+      <mileage>24310</mileage>
+      <model>X-trail</model>
+      <price>100</price>
+      <seats>7</seats>
+      <year>2016</year>
+      <availability>false</availability>
+      <description>Tolerably earnestly middleton extremely distrusts she boy now not.</description>
+   </car>
+   <car>
+      <id>6</id>
+      <brand>Mercedes-Benz</brand>
+      <category>SUV</category>
+      <fuelType>petrol</fuelType>
+      <mileage>24000</mileage>
+      <model>GLC</model>
+      <price>360</price>
+      <seats>5</seats>
+      <year>2013</year>
+      <description>In entirely be to at settling felicity. Fruit two match men you seven share.</description>
+      <availability>true</availability>
+   </car>
+   <car>
+      <id>7</id>
+      <brand>Chevrolet</brand>
+      <category>sedan</category>
+      <fuelType>petrol</fuelType>
+      <mileage>44000</mileage>
+      <model>Cherokee</model>
+      <price>220</price>
+      <seats>5</seats>
+      <year>2018</year>
+      <description>Maids table how learn drift but purse stand yet set.</description>
+      <availability>false</availability>
+   </car>
+   <car>
+      <id>8</id>
+      <brand>Honda</brand>
+      <category>sedan</category>
+      <fuelType>petrol</fuelType>
+      <mileage>1000</mileage>
+      <model>Civic</model>
+      <price>250</price>
+      <seats>5</seats>
+      <year>2019</year>
+      <description>In maximus urna tellus, in convallis elit viverra sed.</description>
+      <availability>true</availability>
+   </car>
+    <car>
+      <id>9</id>
+      <brand>Chevrolet</brand>
+      <category>SUV</category>
+      <fuelType>petrol</fuelType>
+      <mileage>30000</mileage>
+      <model>Captiva</model>
+      <price>80</price>
+      <seats>5</seats>
+      <year>2000</year>
+      <description>Affronting imprudence do he he everything.</description>
+      <availability>true</availability>
+   </car>
+   <car>
+      <id>10</id>
+      <brand>Volkswagen</brand>
+      <category>sedan</category>
+      <fuelType>petrol</fuelType>
+      <mileage>39000</mileage>
+      <model>Golf</model>
+      <price>130</price>
+      <seats>5</seats>
+      <year>2012</year>
+      <description>Ham followed now ecstatic use speaking exercise may repeated.</description>
+      <availability>true</availability>
+   </car>
+</cars>
